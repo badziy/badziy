@@ -9,4 +9,4 @@
 
 ### Сертификат Нетологии
 
--Java. 
+-Java. [https://github.com/badziy/badziy/blob/main/certificate.pdf](https://github.com/badziy/badziy/blob/main/certificate.pdf)
