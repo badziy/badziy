@@ -9,7 +9,7 @@
 - Java. [Курсовой проект Менеджер задач](https://github.com/badziy/TaskManager)
 
 ### Сертификат Яндекс Практикум
-
+- Тестирование.  [https://github.com/badziy/badziy/blob/main/QA-certificate.pdf](https://github.com/badziy/badziy/blob/main/QA-certificate.pdf)
 
 ### Сертификат Нетологии
 
