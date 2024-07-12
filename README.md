@@ -4,7 +4,7 @@
 
 ### Вот, что я умею
 
-- Тестирование
+- Тестирование [Репозиторий с дипломной работой](https://github.com/badziy/Yandex-QA-diplom)
 - Java. [Репозиторий с дипломной работой](https://github.com/badziy/pcs-jd-diplom)
 - Java. [Курсовой проект Менеджер задач](https://github.com/badziy/TaskManager)
 
